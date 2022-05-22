@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1e4a3af3.css",
+    "main.js": "/static/js/main.59bac1a4.js",
+    "static/media/hero0.png": "/static/media/hero0.218a48731ebfd2f88496.png",
+    "static/media/hero2.jpg": "/static/media/hero2.b5c6220e7053ec504e8f.jpg",
+    "static/media/interview.png": "/static/media/interview.7821a60ab5fe9c398c8c.png",
+    "static/media/hero1.jpg": "/static/media/hero1.d460529580af6a9c9ea6.jpg",
+    "static/media/webinar.png": "/static/media/webinar.6be1831e42ac42571893.png",
+    "static/media/coding.png": "/static/media/coding.54c84d583b7ec611a5d3.png",
+    "static/media/presentation.png": "/static/media/presentation.f2a5113e1c396415f926.png",
+    "static/media/online-course.png": "/static/media/online-course.20070dedb6e744fa8bc0.png",
+    "static/media/hero3.jpg": "/static/media/hero3.2f9cfbc8c4565445e548.jpg",
+    "static/media/software-engineer.png": "/static/media/software-engineer.c300b12edeb6630709bd.png",
+    "index.html": "/index.html",
+    "main.1e4a3af3.css.map": "/static/css/main.1e4a3af3.css.map",
+    "main.59bac1a4.js.map": "/static/js/main.59bac1a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e4a3af3.css",
+    "static/js/main.59bac1a4.js"
+  ]
+}
